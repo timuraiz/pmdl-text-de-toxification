@@ -6,9 +6,9 @@ The primary objective of this project is to implement and evaluate a text detoxi
 ## Data Understanding
 I began by examining a dataset consisting of sentence pairs, where each pair includes a "toxic" reference sentence and its "detoxified" translation. Key features of the dataset include toxicity levels, cosine similarity scores, and the relative length difference between the paired sentences.
 
-**[Insert Graphs Here]**
+![Example Image](reports/Toxicity_Comparison_Scatter.png)
 
-Graphs will be included to illustrate:
+Graphs will be included in **reports/** to illustrate:
 - The distribution of toxicity levels in the reference and translated texts.
 - A scatter plot comparing the toxicity levels of reference vs. translated texts.
 - The length distribution of the reference and translated texts.

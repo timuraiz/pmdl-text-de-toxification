@@ -34,6 +34,4 @@ The results showed that:
 - Observations of the toxicity scores post-prediction suggested a trend toward less toxic language.
 - The ReplacerModel showed good performance on given input of toxic words.
 
-**[Insert Additional Results Here]**
-
 The models demonstrate promising applications in content moderation and support for creating healthier online interactions.

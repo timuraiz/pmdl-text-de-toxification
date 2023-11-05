@@ -1,5 +1,7 @@
 # Text Detoxification Report
 
+## Alarm
+Before execution you need to install [data](https://github.com/skoltech-nlp/detox/releases/download/emnlp2021/filtered_paranmt.zip), unpack and put it in data/ dir.
 ## Goal
 The primary objective of this project is to implement and evaluate a text detoxification system. The system aims to transform text with toxic content into a neutral counterpart without changing the original meaning. This contributes to a more positive discourse in digital communication platforms.
 

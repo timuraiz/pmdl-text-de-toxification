@@ -35,3 +35,7 @@ The results showed that:
 - The ReplacerModel showed good performance on given input of toxic words.
 
 The models demonstrate promising applications in content moderation and support for creating healthier online interactions.
+
+## Reference List
+- https://www.youtube.com/watch?v=MqugtGD605k
+- https://paperswithcode.com/method/seq2seq#:~:text=URL%3A%20https%3A%2F%2Fpaperswithcode
